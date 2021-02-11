@@ -5,7 +5,7 @@ This is a brief and self containing guide to help anyone interested in diving in
 ***************************************************************************************************************
 1.  On Mac, Activate Spotlight Search by pressing  <kbd>Command </kbd> +  <kbd>Space </kbd> Bar 
 ***************************************************************************************************************
-2. This opens up the search box to look up anythin on the computer- files, programs, etc 
+2. This opens up the search box to look up anything on the computer- files, programs, etc 
 <p align="center">
   <img src="https://github.com/uptimistic/CommandLineInterface/blob/main/Spotlight-blank.png">
 </p>
