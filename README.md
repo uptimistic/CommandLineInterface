@@ -32,8 +32,8 @@ This is a brief and self containing guide to help anyone interested in diving in
 <details>
   <summary>Click here to see a list of suggested resources ! </summary>
   
-  #### Free online book under creative commons license [The Linux Command Line by William Shotts ](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download)
-  #### Free online book : [Conquering the Command Line- Unix and Linux Commands for Developers by Mark Bates](http://conqueringthecommandline.com/book)
+   Free online book under creative commons license [The Linux Command Line by William Shotts ](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download)
+   Free online book : [Conquering the Command Line- Unix and Linux Commands for Developers by Mark Bates](http://conqueringthecommandline.com/book)
 
 
   
@@ -47,10 +47,9 @@ This is a brief and self containing guide to help anyone interested in diving in
 <details>
   <summary>##Feel free to contact me if interested in developing this tutorial into a full blown collabortive project or other software engineering project </summary>
   
-  #### LinkedIn [Kwadwo Adutwum](https://www.linkedin.com/in/kwadwoadutwum/)
-  #### GitHub [uptimistic](https://github.com/uptimistic)
-  #### [Columbia University Email](mailto:ka2526@columbia.edu)
-  #### Columbia University Email : <ka2526@columbia.edu> 
+   LinkedIn [Kwadwo Adutwum](https://www.linkedin.com/in/kwadwoadutwum/)
+   GitHub [uptimistic](https://github.com/uptimistic)
+   [Columbia University Email](mailto:ka2526@columbia.edu)
 
 
 
