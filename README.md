@@ -20,7 +20,7 @@ This is a brief and self containing guide to help anyone interested in diving in
 
 4. Click on Terminal to lanch the terminal emulator (command line shell) 
 <p align="center">
-  <img src="https://github.com/uptimistic/CommandLineInterface/blob/main/Terminal-launched.png">
+  <img src="https://github.com/uptimistic/CommandLineInterface/blob/main/Terminal-launched.ScreenShot2021_02_13%20at_2.49.58_PM_CT_WoodburyMN.png">
 </p>
 
 
@@ -33,8 +33,8 @@ This is a brief and self containing guide to help anyone interested in diving in
   <summary>Click here to see a list of suggested resources ! </summary>
   
   
-   Free online book under creative commons license [The Linux Command Line by William Shotts ](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download)
-   Free online book : [Conquering the Command Line- Unix and Linux Commands for Developers by Mark Bates](http://conqueringthecommandline.com/book)
+   1. Free online book under creative commons license [The Linux Command Line by William Shotts ](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download)
+   2. Free online book : [Conquering the Command Line- Unix and Linux Commands for Developers by Mark Bates](http://conqueringthecommandline.com/book)
 
 
   
@@ -48,9 +48,9 @@ This is a brief and self containing guide to help anyone interested in diving in
 <details>
   <summary>Feel free to contact me if interested in developing this tutorial into a full blown collabortive project or other software engineering project </summary>
   
-   LinkedIn [Kwadwo Adutwum](https://www.linkedin.com/in/kwadwoadutwum/)
-   GitHub [uptimistic](https://github.com/uptimistic)
-   [Columbia University Email](mailto:ka2526@columbia.edu)
+   1. LinkedIn [Kwadwo Adutwum](https://www.linkedin.com/in/kwadwoadutwum/)
+   2. GitHub [uptimistic](https://github.com/uptimistic)
+   3. [Columbia University Email](mailto:ka2526@columbia.edu)
 
 
 
