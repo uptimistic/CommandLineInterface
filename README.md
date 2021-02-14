@@ -75,7 +75,7 @@ This is a brief and self containing guide to help anyone interested in diving in
   * 1.5.1 Navigating Up (`cd ..`)
   * 1.5.2 Navigating to the Home Directory(`cd ~`)
 * 1.6 Creating Directories (`mkdir`)
-  * 1.6.1 Create Intermediate Directories (`mkdir-p`)
+  * 1.6.1 Create Intermediate Directories (`mkdir -p`)
   * 1.6.2 Verbose Output (`mkdir -v`)
 * 1.7 Copying Files (`cp`)
   * 1.7.1 Copying a Single File
