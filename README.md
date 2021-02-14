@@ -67,6 +67,8 @@ This is a brief and self containing guide to help anyone interested in diving in
   * 1.3.5 Sorting by Size (`ls -s`)
   * 1.3.6 Sorting by Last Modified Time (`ls -t`)
   * 1.3.7 Reverse Sort (`ls -r`)
+  * 1.3.8 *Combined sort options * Sort (`ls -alshtr`)
+
 * 1.4 Links (`ln`)
   * 1.4.1 Hard Links (`ln`)
   * 1.4.2 Forcing a Link (`ln -f`)
