@@ -94,9 +94,6 @@ This is a brief and self containing guide to help anyone interested in diving in
 1.10.3 Reading from a File (`<`)
 
 
-<a name="chatp1"></a>
-## Chapter 1 Basics and Navigation
-
 <a name="chatp2"></a>
 ## Chapter 2 Ack/Ag
 
