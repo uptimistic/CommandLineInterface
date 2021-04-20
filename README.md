@@ -1,6 +1,6 @@
 # Command Line Interface (UNIX/LINUX) `>_`
 
-This is a brief and self containing guide to help anyone interested in diving into Unix and Linux Commands for Developers.
+This is a brief and self containing guide to help anyone interested in diving into Unix and Linux Command Line proficiency for Developers.
 
 ***************************************************************************************************************
 1.  On Mac, Activate Spotlight Search by pressing  <kbd>Command </kbd> +  <kbd>Space </kbd> Bar 
